@@ -1,0 +1,8 @@
+C:\Users\lucpin\source\repos\Tre cases 2\Dansekonkurrence\obj\Debug\Tre cases.csproj.AssemblyReference.cache
+C:\Users\lucpin\source\repos\Tre cases 2\Dansekonkurrence\obj\Debug\Tre cases.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucpin\source\repos\Tre cases 2\Dansekonkurrence\obj\Debug\Tre cases.csproj.CoreCompileInputs.cache
+C:\Users\lucpin\source\repos\Tre cases 2\Dansekonkurrence\obj\Debug\Dansekonkurrence.exe
+C:\Users\lucpin\source\repos\Tre cases 2\Dansekonkurrence\obj\Debug\Dansekonkurrence.pdb
+C:\Users\lucpin\source\repos\Tre cases 2\Dansekonkurrence\bin\Debug\Dansekonkurrence.exe.config
+C:\Users\lucpin\source\repos\Tre cases 2\Dansekonkurrence\bin\Debug\Dansekonkurrence.exe
+C:\Users\lucpin\source\repos\Tre cases 2\Dansekonkurrence\bin\Debug\Dansekonkurrence.pdb

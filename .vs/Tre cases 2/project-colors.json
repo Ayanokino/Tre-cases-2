@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3330880-93ae-4973-8bac-f4d613e0ee97": {
+      "ProjectGuid": "a3330880-93ae-4973-8bac-f4d613e0ee97",
+      "DisplayName": "Fodbold",
+      "ColorIndex": 0
+    },
+    "bec312a4-3539-46ee-aa04-5633161fa139": {
+      "ProjectGuid": "bec312a4-3539-46ee-aa04-5633161fa139",
+      "DisplayName": "Tre cases",
+      "ColorIndex": 1
+    },
+    "721947c7-5b3a-4d00-9d14-8b5f2266483d": {
+      "ProjectGuid": "721947c7-5b3a-4d00-9d14-8b5f2266483d",
+      "DisplayName": "Oprettelse af gyldigt Password",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

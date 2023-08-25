@@ -1,0 +1,8 @@
+C:\Users\lucpin\source\repos\Tre cases 2\Tre cases 2\bin\Debug\Tre cases 2.exe.config
+C:\Users\lucpin\source\repos\Tre cases 2\Tre cases 2\bin\Debug\Tre cases 2.exe
+C:\Users\lucpin\source\repos\Tre cases 2\Tre cases 2\bin\Debug\Tre cases 2.pdb
+C:\Users\lucpin\source\repos\Tre cases 2\Tre cases 2\obj\Debug\Fodbold.csproj.AssemblyReference.cache
+C:\Users\lucpin\source\repos\Tre cases 2\Tre cases 2\obj\Debug\Fodbold.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucpin\source\repos\Tre cases 2\Tre cases 2\obj\Debug\Fodbold.csproj.CoreCompileInputs.cache
+C:\Users\lucpin\source\repos\Tre cases 2\Tre cases 2\obj\Debug\Tre cases 2.exe
+C:\Users\lucpin\source\repos\Tre cases 2\Tre cases 2\obj\Debug\Tre cases 2.pdb
